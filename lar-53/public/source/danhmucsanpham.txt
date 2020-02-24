@@ -1,0 +1,44 @@
+Samsung Galaxy:
+	- A50s
+	- Note 10 plus
+	- A70
+	- A60
+	- A80
+	- A8 star
+	- A7
+Realme:
+	- 3 pro
+	- 5 pro
+	- 2 pro
+	- C1
+	- 3
+	- x2 pro blue	(non)
+	- C2 đen		(non)
+Oppo:
+	- A5 2020 đen	(non)
+	- Reno 2		(non)
+	- A9 2020
+	- Reno
+	- F11 pro
+	- A5s
+	- A1k		(non)
+	- F9
+Iphone:
+	- 11 pro max
+	- 11
+	- xs max
+	- xr
+	- 7 plus 		(non)
+	- 6s plus
+
+Xiaomi:
+	- Redmi note 8 pro
+	- Redmi note 7
+	- Redmi k20 pro
+	- Redmi 7a
+	- Mi 9
+Khác:
+	- AirPods Pro
+	- Bluetooth apple air
+	- Sạc
+	- Watch S4
